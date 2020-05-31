@@ -22,7 +22,7 @@ Install EduTools Plugin for IntelliJ IDEA.
 
 ## Authors 
 
-* **Shivam Yadav**
+* **Andres Villarroel**
 
 ## License
 
